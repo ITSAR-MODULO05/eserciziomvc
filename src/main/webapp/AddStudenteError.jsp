@@ -28,7 +28,7 @@
 		</p>
 	</div>
 	<div>
-		<a class="navigateIn" href="./creaUtente.html">Torna alla pagina di inserimento</a>
+		<a class="navigateIn" href="./creaStudente.html">Torna alla pagina di inserimento</a>
 	</div>
 </body>
 </html>
