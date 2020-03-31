@@ -9,6 +9,7 @@
 </head>
 <body>
 	<%
+	//response.sendRedirect("/miglioli/ListaStudentiJson.jsp");
 	response.sendRedirect("/miglioli/listStudenti");
 	%>
 </body>

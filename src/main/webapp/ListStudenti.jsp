@@ -37,7 +37,7 @@
 	</table>
 
 	<div>
-		<a class="navigate" href="./creaStudente.html">Torna alla pagina
+		<a class="navigateIn" href="./creaStudente.html">Torna alla pagina
 			di inserimento</a>
 	</div>
 	<div>

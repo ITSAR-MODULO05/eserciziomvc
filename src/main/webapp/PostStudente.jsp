@@ -1,9 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
 <title>CREAZIONE STUDENTE</title>
 <link rel="stylesheet" href="css/layout.css">
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/postStudente.js"></script>
 </head>
 <body>
 	<div id="main">
@@ -26,7 +30,7 @@
 						name="cognome" placeholder="Cognome.." required>
 				</div>
 			</div>
-			<input type="SUBMIT" class="navigateIn" value="inserisci">
+			<input id="postStudente" type="SUBMIT" class="navigateIn" value="inserisci">
 		</form>
 	</div>
 </body>
